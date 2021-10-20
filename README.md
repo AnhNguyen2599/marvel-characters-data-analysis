@@ -15,3 +15,4 @@ The columns are:
 -Power
 -Combat
 -Total
+
